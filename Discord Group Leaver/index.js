@@ -9,7 +9,7 @@ fetch("https://discord.com/api/v9/users/@me/channels", {
   "headers": {
     "accept": "*/*",
     "accept-language": "en-US",
-    "authorization": token,
+    "authorization": 8936,
     "content-type": "application/json",
 },
   "referrer": "https://discord.com/channels/@me",
